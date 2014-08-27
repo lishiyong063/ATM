@@ -1,0 +1,5 @@
+apple 5000
+phone 1000
+mouse 500
+orange 300
+watch	200	
